@@ -1,0 +1,19 @@
+.container {
+  height: 90vh;
+  padding-top: 50px;
+}
+.single-item__left_side {
+  display: flex !important;
+  justify-content: center;
+  align-items: flex-start;
+}
+.single-item__left_side img {
+  width: 80%;
+  border-radius: 20px;
+}
+.single-item__right_side {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
